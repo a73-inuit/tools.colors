@@ -1,0 +1,16 @@
+{
+  "name": "a73-inuit-colors-tools",
+  "version": "0.0.1",
+  "homepage": "https://github.com/a73-inuit/tools.colors",
+  "authors": [
+    "Rodrigo Erades <rerades@siete3.com>"
+  ],
+  "description": "Tools to manage color schemes",
+  "main": "_tools.colors.scss",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ],
+  "license": "Apache"
+}
