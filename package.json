@@ -1,6 +1,6 @@
 {
   "name": "a73-inuit-colors-tools",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Tools to manage color schemes",
   "main": "_tools.colors.scss",
   "repository": {
@@ -13,6 +13,9 @@
     "url": "https://github.com/a73-inuit/tools.colors/issues"
   },
   "homepage": "https://github.com/a73-inuit/tools.colors",
+  "dependencies": {
+    "a73-inuit-colors-settings": "~0.1.0"
+  },
   "keywords": [
     "inuitcss",
     "oocss",
